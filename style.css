@@ -1,4 +1,5 @@
 /* kustomisasi font, dimensi untuk body */
+/* by galihyudhaws */
 body {
 	font-family: Arial, sans-serif;
 	line-height: 1.5;
@@ -7,6 +8,7 @@ body {
 }
 
 /* kustomisasi bg-color, color, padding untuk header */
+/* by galihyudhaws */
 header {
 	background-color: #333;
 	color: #fff;
